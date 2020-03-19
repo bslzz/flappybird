@@ -9,11 +9,6 @@ img,
   left: 0;
 }
 
-#bird {
-  width: 300px;
-  top: 40%;
-}
-
 #background {
   background-image: url('images/flappy.png');
   width: 100%;
